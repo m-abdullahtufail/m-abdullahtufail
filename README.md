@@ -112,10 +112,7 @@ The commit-snake eating its way through your contribution graph:
 <img src="https://raw.githubusercontent.com/m-abdullahtufail/m-abdullahtufail/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 <!--END_SECTION:snake-->
 
-**Activate it (one-time setup):**
-1. Create a repo named exactly like your GitHub username — that's your special "profile repo."
-2. Add the [`platane/snk`](https://github.com/Platane/snk) Action so it auto-generates the snake SVG from your real contribution graph on a schedule.
-3. Drop this README in as `README.md` — the board will start playing itself.
+
 
 **Bonus arcade badges** (fun, decorative, zero setup):
 
