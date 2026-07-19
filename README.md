@@ -109,7 +109,7 @@ philosophy: "build fast, think faster — AI as a co-pilot, not a crutch"
 The commit-snake eating its way through your contribution graph:
 
 <!--START_SECTION:snake-->
-[<img src="https://raw.githubusercontent.com/abdullahtufail/abdullahtufail/output/github-contribution-grid-snake-dark.svg" width="80%"/>](https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/m-abdullahtufail/m-abdullahtufail/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 <!--END_SECTION:snake-->
 
 **Activate it (one-time setup):**
