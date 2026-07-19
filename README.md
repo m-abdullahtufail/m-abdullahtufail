@@ -1,109 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ABDULLAH%20TUFAIL&fontSize=48&fontColor=00ff9c&fontAlignY=38&desc=%3E%20whoami%20--full-stack%20--python%20--ai-assisted&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0d1117&height=230&section=header&text=ABDULLAH%20TUFAIL&fontSize=46&fontColor=00FF9C&fontAlignY=35&desc=%3E%20SYSTEM.USER%20%3A%3A%20FULL-STACK%20%2F%2F%20PYTHON%20%2F%2F%20AI-ASSISTED&descAlignY=55&descSize=15&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=root%40abdullah%3A~%23+booting+dev_environment...;Loading+skills.json+%5B%E2%9C%93%5D;Compiling+creativity.exe+%5B%E2%9C%93%5D;Access+Granted+%F0%9F%9F%A2" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40abdullah%3A~%23+initializing_dashboard...;%5B+OK+%5D+Loading+skills.json;%5B+OK+%5D+Mounting+tech_stack%2F;%5B+OK+%5D+AI+co-pilot+engaged;%5B+ACCESS+GRANTED+%5D+welcome%2C+visitor." alt="Typing SVG"/>
 
 </div>
 
 <br>
 
-```ascii
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM: Abdullah Tufail                                      │
-│  ROLE  : Web Developer · Python Developer · AI-Assisted Dev   │
-│  STATUS: [ONLINE] shipping code, breaking bugs, repeat         │
-└──────────────────────────────────────────────────────────────┘
+```
+┌────────────────────────────────────────────────────────────────────┐
+│ user@abdullah-tufail : ~ $ ./boot_profile.sh                        │
+│                                                                       │
+│  [🟢] STATUS      : ONLINE                                          │
+│  [🟢] ROLE        : Web Developer · Python Developer · AI-Assisted   │
+│  [🟢] MODE        : shipping code, breaking bugs, repeat             │
+│  [🟢] UPTIME      : always learning                                  │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdullahtufail&label=TERMINAL%20VISITS&color=00ff9c&style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-CODING-00ff9c?style=for-the-badge&logo=matrix&logoColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=abdullahtufail&label=TERMINAL+VISITS&color=00FF9C&style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/CURRENT_FOCUS-BUILDING_WITH_AI-00FF9C?style=for-the-badge&logo=openai&logoColor=black&labelColor=0d1117)
 
 </div>
 
 ---
 
-### `> cat skills.log`
+## `~$ cat /dev/skills`
 
 ```yaml
+> abdullah.skills
+────────────────────────────
 role:
-  - Web Developer
-  - Python Developer
-  - AI-Assisted Developer
-mode: "building fast, thinking faster with AI as a co-pilot"
+  - Web Development
+  - Python Development
+  - AI-Assisted Development
+philosophy: "build fast, think faster — AI as a co-pilot, not a crutch"
 ```
 
-### `> ls -la ./tech_stack`
+---
+
+## `~$ ls -la ./tech_stack/`
 
 <div align="center">
 
-**Languages & Frameworks**
+### 🖥️ Languages & Frameworks
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,java,react,nodejs,tailwind,fastapi,python&theme=dark" />
 
-**Tools & Software**
+<br><br>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=00ff9c"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<br><br>
+
+### 🛠️ Tools & Software
+
+<img src="https://skillicons.dev/icons?i=vscode,wordpress&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Cursor_AI-0d1117?style=for-the-badge&logo=cursor&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/Framer-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF"/>
+<img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
 
 </div>
 
 ---
 
-### `> ./run_stats.sh`
+## `~$ ./run_diagnostics.sh --stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahtufail&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahtufail&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahtufail&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&ring_color=00FF9C" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahtufail&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" width="42%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahtufail&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahtufail&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=c9d1d9" width="65%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahtufail&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahtufail&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C" width="90%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahtufail&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,Followers" width="90%"/>
 
 </div>
 
-> ⚠️ Swap `abdullahtufail` in the URLs above for your **actual GitHub username** so the stat cards pull your real data.
+> ⚠️ Replace `abdullahtufail` in every URL above with your **real GitHub username** — otherwise the widgets render empty/broken.
 
 ---
 
-### `> play --games`
+## `~$ play --arcade`
 
 <div align="center">
 
-Yes, even the terminal needs a break. Here's the contribution snake devouring its own commit history:
+The commit-snake eating its way through your contribution graph:
 
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/abdullahtufail/abdullahtufail/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 <!--END_SECTION:snake-->
 
-**How to activate the snake game above (one-time setup):**
-1. Create a new repo named exactly like your username (a "profile repo").
-2. Add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to generate the snake SVG automatically from your contribution graph.
-3. Push this README as `README.md` in that repo — the snake will animate itself daily.
+**Activate it (one-time setup):**
+1. Create a repo named exactly like your GitHub username — that's your special "profile repo."
+2. Add the [`platane/snk`](https://github.com/Platane/snk) Action so it auto-generates the snake SVG from your real contribution graph on a schedule.
+3. Drop this README in as `README.md` — the board will start playing itself.
+
+**Bonus arcade badges** (fun, decorative, zero setup):
+
+<img src="https://img.shields.io/badge/PLAYER-ABDULLAH-00FF9C?style=for-the-badge&logo=gameboy&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/XP-CODE_LVL_99-00FF9C?style=for-the-badge&logo=leaguelegends&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ACHIEVEMENT-SHIPPED_IT-00FF9C?style=for-the-badge&logo=nintendoswitch&logoColor=black&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-### `> whoami --contact`
+## `~$ whoami --contact`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tufail-2b57a9329/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactabdullah152@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abdullah-tufail-2b57a9329/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contactabdullah152@gmail.com)
 
 </div>
 
@@ -112,10 +141,11 @@ Yes, even the terminal needs a break. Here's the contribution snake devouring it
 <div align="center">
 
 ```
-> echo "Thanks for stopping by. Now go build something."
-Thanks for stopping by. Now go build something.
+user@abdullah-tufail:~$ echo "Thanks for visiting the terminal."
+Thanks for visiting the terminal.
+user@abdullah-tufail:~$ _
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
