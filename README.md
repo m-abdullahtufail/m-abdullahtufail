@@ -106,7 +106,7 @@ philosophy: "build fast, think faster — AI as a co-pilot, not a crutch"
 
 <div align="center">
 
-The commit-snake eating its way through your contribution graph:
+
 
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/m-abdullahtufail/m-abdullahtufail/output/github-contribution-grid-snake-dark.svg" width="80%"/>
@@ -114,7 +114,7 @@ The commit-snake eating its way through your contribution graph:
 
 
 
-**Bonus arcade badges** (fun, decorative, zero setup):
+
 
 <img src="https://img.shields.io/badge/PLAYER-ABDULLAH-00FF9C?style=for-the-badge&logo=gameboy&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/XP-CODE_LVL_99-00FF9C?style=for-the-badge&logo=leaguelegends&logoColor=black&labelColor=0d1117"/>
